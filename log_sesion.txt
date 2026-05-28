@@ -1,0 +1,9 @@
+
+=== Nueva sesion ===
+Asignada: Proceso_1 -> Hilo_5
+Completada: Proceso_1 por Hilo_5
+
+=== Nueva sesion ===
+Asignada: Proceso_1 -> Hilo_5
+Completada: Proceso_1 por Hilo_5
+=== Sesion terminada ===
