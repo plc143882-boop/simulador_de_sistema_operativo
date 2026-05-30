@@ -2,7 +2,6 @@
  
  main.c - Simulador de sistema operativo (procesador de tareas)
  Estructuras de Datos
- Adiel Lopez Cruz
  Flujo: Cola de prioridad -> Pool de hilos (lista) -> Pila de historial -> Log
  */
  
