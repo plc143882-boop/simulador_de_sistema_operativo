@@ -268,3 +268,4 @@ void simularLiberacion(ListaHilos *pool, Pila *historial, FILE *log) {
         actual = actual->siguiente;
     }
 }
+
